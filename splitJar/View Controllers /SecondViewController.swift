@@ -10,11 +10,21 @@ import UIKit
 
 class SecondViewController: UIViewController {
 
+    override func viewWillAppear(_ animated: Bool) {
+        super.viewDidLoad()
+        navigationController?.setNavigationBarHidden(true, animated: false)
+
+    }
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
+        
         // Do any additional setup after loading the view.
     }
 
-
+    
+    
+    
 }
 

@@ -14,6 +14,7 @@
 		013D837C23DCC5F80050D35B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 013D837A23DCC5F80050D35B /* Main.storyboard */; };
 		013D837E23DCC5F90050D35B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 013D837D23DCC5F90050D35B /* Assets.xcassets */; };
 		013D838123DCC5F90050D35B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 013D837F23DCC5F90050D35B /* LaunchScreen.storyboard */; };
+		013D839023DCE5650050D35B /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 013D838F23DCE5650050D35B /* LoginViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		013D837D23DCC5F90050D35B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		013D838023DCC5F90050D35B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		013D838223DCC5F90050D35B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		013D838F23DCE5650050D35B /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 			children = (
 				013D837623DCC5F80050D35B /* FirstViewController.swift */,
 				013D837823DCC5F80050D35B /* SecondViewController.swift */,
+				013D838F23DCE5650050D35B /* LoginViewController.swift */,
 			);
 			path = "View Controllers ";
 			sourceTree = "<group>";
@@ -152,6 +155,7 @@
 				013D837923DCC5F80050D35B /* SecondViewController.swift in Sources */,
 				013D837723DCC5F80050D35B /* FirstViewController.swift in Sources */,
 				013D837323DCC5F80050D35B /* AppDelegate.swift in Sources */,
+				013D839023DCE5650050D35B /* LoginViewController.swift in Sources */,
 				013D837523DCC5F80050D35B /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
