@@ -10,6 +10,8 @@ import UIKit
 
 class SecondViewController: UIViewController {
 
+    @IBOutlet weak var txt: UITextView!
+    
     override func viewWillAppear(_ animated: Bool) {
         super.viewDidLoad()
         navigationController?.setNavigationBarHidden(true, animated: false)
@@ -22,6 +24,7 @@ class SecondViewController: UIViewController {
         
         // Do any additional setup after loading the view.
     }
+
 
     
     

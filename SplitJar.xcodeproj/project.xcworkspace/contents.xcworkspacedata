@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:splitJar.xcodeproj">
+      location = "self:/Users/robertelizondo/splitJar/SplitJar.xcodeproj">
    </FileRef>
 </Workspace>

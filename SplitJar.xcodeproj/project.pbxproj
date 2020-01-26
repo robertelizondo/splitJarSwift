@@ -18,7 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		013D836F23DCC5F80050D35B /* splitJar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = splitJar.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		013D836F23DCC5F80050D35B /* SplitJar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SplitJar.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		013D837223DCC5F80050D35B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		013D837423DCC5F80050D35B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		013D837623DCC5F80050D35B /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
@@ -44,7 +44,7 @@
 		013D836623DCC5F80050D35B = {
 			isa = PBXGroup;
 			children = (
-				013D837123DCC5F80050D35B /* splitJar */,
+				013D837123DCC5F80050D35B /* SplitJar */,
 				013D837023DCC5F80050D35B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -52,12 +52,12 @@
 		013D837023DCC5F80050D35B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				013D836F23DCC5F80050D35B /* splitJar.app */,
+				013D836F23DCC5F80050D35B /* SplitJar.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		013D837123DCC5F80050D35B /* splitJar */ = {
+		013D837123DCC5F80050D35B /* SplitJar */ = {
 			isa = PBXGroup;
 			children = (
 				013D838C23DCCEA50050D35B /* View Controllers  */,
@@ -68,7 +68,7 @@
 				013D837F23DCC5F90050D35B /* LaunchScreen.storyboard */,
 				013D838223DCC5F90050D35B /* Info.plist */,
 			);
-			path = splitJar;
+			path = SplitJar;
 			sourceTree = "<group>";
 		};
 		013D838C23DCCEA50050D35B /* View Controllers  */ = {
@@ -84,9 +84,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		013D836E23DCC5F80050D35B /* splitJar */ = {
+		013D836E23DCC5F80050D35B /* SplitJar */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 013D838523DCC5F90050D35B /* Build configuration list for PBXNativeTarget "splitJar" */;
+			buildConfigurationList = 013D838523DCC5F90050D35B /* Build configuration list for PBXNativeTarget "SplitJar" */;
 			buildPhases = (
 				013D836B23DCC5F80050D35B /* Sources */,
 				013D836C23DCC5F80050D35B /* Frameworks */,
@@ -96,9 +96,9 @@
 			);
 			dependencies = (
 			);
-			name = splitJar;
+			name = SplitJar;
 			productName = splitJar;
-			productReference = 013D836F23DCC5F80050D35B /* splitJar.app */;
+			productReference = 013D836F23DCC5F80050D35B /* SplitJar.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -116,7 +116,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 013D836A23DCC5F80050D35B /* Build configuration list for PBXProject "splitJar" */;
+			buildConfigurationList = 013D836A23DCC5F80050D35B /* Build configuration list for PBXProject "SplitJar" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -129,7 +129,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				013D836E23DCC5F80050D35B /* splitJar */,
+				013D836E23DCC5F80050D35B /* SplitJar */,
 			);
 		};
 /* End PBXProject section */
@@ -308,7 +308,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = me.robert.splitJar;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = SplitJar;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -326,7 +326,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = me.robert.splitJar;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = SplitJar;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -335,7 +335,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		013D836A23DCC5F80050D35B /* Build configuration list for PBXProject "splitJar" */ = {
+		013D836A23DCC5F80050D35B /* Build configuration list for PBXProject "SplitJar" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				013D838323DCC5F90050D35B /* Debug */,
@@ -344,7 +344,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		013D838523DCC5F90050D35B /* Build configuration list for PBXNativeTarget "splitJar" */ = {
+		013D838523DCC5F90050D35B /* Build configuration list for PBXNativeTarget "SplitJar" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				013D838623DCC5F90050D35B /* Debug */,
