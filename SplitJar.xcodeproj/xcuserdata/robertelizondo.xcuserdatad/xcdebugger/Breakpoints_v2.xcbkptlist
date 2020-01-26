@@ -3,4 +3,54 @@
    uuid = "18C4345B-B017-4234-81D7-20173690B197"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0B062367-638C-4043-8C6E-B4461A9CE267"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SplitJar/View Controllers /FirstViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "FirstViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "0B062367-638C-4043-8C6E-B4461A9CE267 - 276ce83c426a9d8e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SplitJar.FirstViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; SplitJar.FirstViewController"
+                  moduleName = "SplitJar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robertelizondo/splitJar/SplitJar/View%20Controllers%20/FirstViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "712">
+               </Location>
+               <Location
+                  uuid = "0B062367-638C-4043-8C6E-B4461A9CE267 - c9415614000d2b85"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SplitJar.FirstViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;SplitJar.FirstViewController&gt;"
+                  moduleName = "SplitJar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robertelizondo/splitJar/SplitJar/View%20Controllers%20/FirstViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "660">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>
